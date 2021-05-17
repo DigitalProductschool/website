@@ -30,7 +30,7 @@
     "gender-api.com-client": "^1.0.14",
     "googleapis": "^61.0.0",
     "node-fetch": "^2.6.1",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "stream-to-blob": "^2.0.0",
