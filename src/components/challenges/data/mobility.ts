@@ -23,7 +23,7 @@ export const secondstatus = {
     'With its talents, infrastructure, and its methods of building digital products, it can assist companies to become leading innovators in the mobility sector.',
   button: 'Contact Us',
   url: 'https://utum.typeform.com/to/bEvb6JcE',
-  image: '/assets/challenges/mobility/dps-help.png',
+  image: '/assets/challenges/mobility/dps-help.jpg',
 };
 
 export const partnerbenefits = {
@@ -47,7 +47,7 @@ export const firstcta = {
 
 export const successstories = [
   {
-    image: '/assets/challenges/mobility/success-stories/antspot.png',
+    image: '/assets/challenges/mobility/success-stories/antspot.jpg',
     teamName: 'BATCH#8: Team ANT.SPOT',
     hmw:
       'How might we help the traffic planner to analyse and better plan changes in the delivery related infrastructure in Hamburg?',
@@ -57,7 +57,7 @@ export const successstories = [
     url: 'http://bit.ly/dpsandlsbg',
   },
   {
-    image: '/assets/challenges/mobility/success-stories/rebels.png',
+    image: '/assets/challenges/mobility/success-stories/rebels.jpg',
     teamName: 'BATCH#1: Team GRASSROOT REBELS',
     hmw: 'How might we motivate employees to cycle more?',
     solution:
@@ -66,7 +66,7 @@ export const successstories = [
     url: 'https://www.getmoovster.com/',
   },
   {
-    image: '/assets/challenges/mobility/success-stories/mosa.png',
+    image: '/assets/challenges/mobility/success-stories/mosa.jpg',
     teamName: 'BATCH#11: Team MOSA',
     hmw:
       'How might we alert car drivers about approaching cyclist when doing a right turn?',

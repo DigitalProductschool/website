@@ -30,7 +30,7 @@ class TrackPMC extends React.Component {
         <Header
           track={generalTrackInfo}
           data={header}
-          logo="/assets/tracks/dps-logo-white.svg"
+          logo="/assets/shared/dps-logo-white.svg"
           className="track-pmc__header"
         />
         <TrackImage track="pmc" />

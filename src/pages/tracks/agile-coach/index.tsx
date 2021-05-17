@@ -30,7 +30,7 @@ class TrackAC extends React.Component {
         <Header
           track={generalTrackInfo}
           data={header}
-          logo="/assets/tracks/dps-logo-white.svg"
+          logo="/assets/shared/dps-logo-white.svg"
           className="track-ac__header"
         />
         <TrackImage track="ac" />

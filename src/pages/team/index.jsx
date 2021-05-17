@@ -17,7 +17,7 @@ I advise and coach our teams in exploring AI applications, their feasibility and
     pic: 'afsaneh.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/afsaneh-asaei-490b6621',
         alt: 'linkedin',
       },
@@ -32,7 +32,7 @@ I advise and coach our teams in exploring AI applications, their feasibility and
     pic: 'samreen.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/samreen-azam-803760140/',
         alt: 'linkedin',
       },
@@ -47,7 +47,7 @@ During my time at university I accumulated a lot of knowledge in data structures
     pic: 'daniel.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/danielbedo/',
         alt: 'linkedin',
       },
@@ -62,7 +62,7 @@ My role is to organize all events at DPS and throw the best batch closing partie
     pic: 'natt.jpg',
     social: [
       {
-        icon: '/assets/icons/insta.svg',
+        icon: '/assets/team/insta.svg',
         link: 'https://www.instagram.com/natt_chanida/',
         alt: 'instagram',
       },
@@ -77,7 +77,7 @@ I take care of the business side of projects at DPS and support our teams in how
     pic: 'lorenz.jpg',
     social: [
       {
-        icon: '/assets/icons/xing.svg',
+        icon: '/assets/team/xing.svg',
         link: 'https://www.xing.com/profile/Lorenz_Hutterer2/cv',
         alt: 'xing',
       },
@@ -92,7 +92,7 @@ I help teams at DPS to spot problems and create ideas that join the dots discove
     pic: 'steffen.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/steffen-kastner-177494a9/',
         alt: 'linkedin',
       },
@@ -107,7 +107,7 @@ I help teams at DPS to spot problems and create ideas that join the dots discove
     pic: 'tobias.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://de.linkedin.com/in/tobias-kalkowsky-21b7a4163',
         alt: 'linkedin',
       },
@@ -123,7 +123,7 @@ I help teams at DPS to spot problems and create ideas that join the dots discove
     pic: 'bela.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/bsinoimeri/',
         alt: 'linkedin',
       },
@@ -140,7 +140,7 @@ I help teams at DPS to spot problems and create ideas that join the dots discove
     pic: 'marcus.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/marcus-paeschke-66305a55/',
         alt: 'linkedin',
       },
@@ -155,7 +155,7 @@ I help the teams with all marketing-related questions: finding test persons, cre
     pic: 'basti.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/bastian-rieder-marketingmba/',
         alt: 'linkedin',
       },
@@ -170,7 +170,7 @@ As an agile coach at DPS, I support teams to overcome obstacles through practici
     pic: 'annina.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/annina-schaupp-18a913177/v',
         alt: 'linkedin',
       },
@@ -185,7 +185,7 @@ At DPS, I help teams to identify technical risks in their solution and enable th
     pic: 'michi.jpg',
     social: [
       {
-        icon: '/assets/icons/linkedin.svg',
+        icon: '/assets/team/linkedin.svg',
         link: 'https://www.linkedin.com/in/michael-stockerl-8584a347/',
         alt: 'linkedin',
       },

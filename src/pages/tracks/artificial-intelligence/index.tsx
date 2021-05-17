@@ -29,7 +29,7 @@ class TrackAI extends React.Component {
         <Header
           track={generalTrackInfo}
           data={header}
-          logo="/assets/tracks/dps-logo-white.svg"
+          logo="/assets/shared/dps-logo-white.svg"
           className="track-ai__header"
         />
         <TrackImage track="ai" />

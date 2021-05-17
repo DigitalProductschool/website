@@ -25,21 +25,21 @@ class ExperienceMatter extends React.Component {
                 {' '}
                 <img
                   alt="designit-logo"
-                  src="/assets/home/experience-matters/designit.png"
+                  src="/assets/home/experience-matters/designit.jpg"
                 />{' '}
               </li>
               <li>
                 {' '}
                 <img
                   alt="dalabs-logo"
-                  src="/assets/home/experience-matters/dalabs.png"
+                  src="/assets/home/experience-matters/dalabs.jpg"
                 />{' '}
               </li>
               <li>
                 {' '}
                 <img
                   alt="produktmacher-logo"
-                  src="/assets/home/experience-matters/produktmacher.png"
+                  src="/assets/home/experience-matters/produktmacher.jpg"
                 />{' '}
               </li>
             </ul>

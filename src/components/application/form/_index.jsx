@@ -325,7 +325,10 @@ export default function Form(props) {
                   className={`application-form__file-button application-form__file-button--${props.track}`}
                   onClick={clickFileInputCV}
                 >
-                  <img src="/assets/icons/upload-icon.svg" alt="upload CV" />
+                  <img
+                    src="/assets/application/upload-icon.svg"
+                    alt="upload CV"
+                  />
                 </button>
               </div>
               <div className="application-form__field-wrapper">
@@ -383,7 +386,7 @@ export default function Form(props) {
                   onClick={clickFileInputCoverLetter}
                 >
                   <img
-                    src="/assets/icons/upload-icon.svg"
+                    src="/assets/application/upload-icon.svg"
                     alt="upload cover letter"
                   />
                 </button>

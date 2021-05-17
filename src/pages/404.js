@@ -14,7 +14,7 @@ const NotFoundPage = () => (
         <img
           alt="Annina Sad"
           className="not-found_content-image"
-          src="/assets/Annina_sad.jpg"
+          src="/assets/shared/not-found.jpg"
         />
         <div className="apply-now__content__description">
           <p className="u-text not-found__content-text">

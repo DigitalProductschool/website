@@ -5,11 +5,11 @@ const partnerLogos = [
   'nokia.jpg',
   'sap.jpg',
   'swm.jpg',
-  'aisin.png',
-  'deutschebahn.png',
+  'aisin.jpg',
+  'deutschebahn.jpg',
   'google.jpg',
   'hamburg.jpg',
-  'IABG.png',
+  'IABG.jpg',
   'infineon.jpg',
   'lhm.jpg',
 ];
@@ -42,7 +42,7 @@ class IndustryPartners extends React.Component {
                 {' '}
                 <img
                   alt={`industry-partner-logo-${item}`}
-                  src={`/assets/home/industry-partners/${item}`}
+                  src={`/assets/partners/${item}`}
                 />{' '}
               </li>
             ))}

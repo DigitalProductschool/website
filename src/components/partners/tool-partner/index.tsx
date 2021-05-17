@@ -11,25 +11,25 @@ class ToolPartner extends React.Component {
               alt="Eyequant"
               title="Eyequant, tool partner of Digital Product School"
               className="tool-partner__content__logo"
-              src="/assets/home/tool-partner/eyequant.jpg"
+              src="/assets/partners/eyequant.jpg"
             />
             <img
               alt="Invision"
               title="Invision, tool partner of Digital Product School"
               className="tool-partner__content__logo"
-              src="/assets/home/tool-partner/invision.png"
+              src="/assets/partners/invision.jpg"
             />
             <img
               alt="UXPIN"
               title="UXPIN, tool partner of Digital Product School"
               className="tool-partner__content__logo"
-              src="/assets/home/tool-partner/uxpin.png"
+              src="/assets/partners/uxpin.jpg"
             />
             <img
               alt="github"
               title="github, tool partner of Digital Product School"
               className="tool-partner__content__logo"
-              src="/assets/home/tool-partner/github.png"
+              src="/assets/partners/github.jpg"
             />
           </div>
           <div
@@ -47,7 +47,7 @@ class ToolPartner extends React.Component {
                     alt="Mobility Hub"
                     title="Digital Product School is part of the Digital Hub Mobility by UnternehmerTUM"
                     className="tool-partner__content__logo"
-                    src="/assets/home/tool-partner/newmobilityhub.png"
+                    src="/assets/partners/mobilityhub.jpg"
                   />
                 </div>
               </div>
@@ -58,7 +58,7 @@ class ToolPartner extends React.Component {
                   alt="Technical University of Munich (TUM)"
                   title="Digital Product School is conducted in cooperation with the Technical University of Munich (TUM)"
                   className="tool-partner__content__logo"
-                  src="/assets/home/tool-partner/tum.png"
+                  src="/assets/partners/tum.jpg"
                 />
               </div>
             </div>

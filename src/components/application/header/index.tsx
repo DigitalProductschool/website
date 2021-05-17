@@ -60,7 +60,7 @@ class Header extends React.Component<IHeaderProps, {}> {
       <section
         className={`applications__header u-content-wrapper applications__header--${track}`}
       >
-        <Nav logo="/assets/tracks/dps-logo-white.svg" track={track} />
+        <Nav logo="/assets/shared/dps-logo-white.svg" track={track} />
         <div className="applications__header-content u-content">
           <h1 className="applications__header-content__title">
             APPLY AS <br /> {data[track].title}

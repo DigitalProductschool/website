@@ -30,7 +30,7 @@ class TrackIxD extends React.Component {
           track={generalTrackInfo}
           data={header}
           className="track-ixd__header"
-          logo="/assets/tracks/dps-logo-white.svg"
+          logo="/assets/shared/dps-logo-white.svg"
         />
         <TrackImage track="ixd" />
         <OfferResponsibilities data={or} />

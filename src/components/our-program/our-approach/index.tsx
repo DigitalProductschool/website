@@ -14,7 +14,7 @@ class OurApproach extends React.Component {
           <img
             alt="double-diamond"
             className="u-image"
-            src="/assets/program/our-approach/double-diamond.png"
+            src="/assets/program/our-approach/double-diamond.jpg"
           />
           <ul className="our-approach__process">
             <li className="our-approach__process__step">

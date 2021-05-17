@@ -28,10 +28,7 @@ class HomeHeader extends React.Component<IHeaderProps, {}> {
           ) : (
             <div className="u-content header-content">
               <video autoPlay muted loop className="cover__video">
-                <source
-                  src="/assets/home/header/headervideo-1680-758.mp4"
-                  type="video/mp4"
-                />
+                <source src="/assets/home/header/header.mp4" type="video/mp4" />
               </video>
               <h1 className="header-section__content__title">
                 {' '}

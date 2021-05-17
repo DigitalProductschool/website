@@ -25,7 +25,7 @@ class OurProgram extends React.Component {
                 <img
                   alt="calendar-icon"
                   className="our-program__perks__item__icon-wrapper__img our-program__perks__item__icon-wrapper__img--first"
-                  src="/assets/home/our-program/calendar-icon.png"
+                  src="/assets/home/our-program/calendar-icon.jpg"
                 />
               </div>
               <h4 className="our-program__perks__title">3 Months full-time</h4>

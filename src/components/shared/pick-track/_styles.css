@@ -76,14 +76,14 @@
 
   &--ac {
     background: linear-gradient(rgba(98, 170, 120), rgba(98, 170, 120)),
-      url(/assets/shared/pick-track/ac-track-background.png) center center /
+      url(/assets/shared/pick-track/ac-track-background.jpg) center center /
         cover no-repeat;
     background-blend-mode: multiply;
   }
 
   &--pmc {
     background: linear-gradient(rgba(95, 103, 201), rgba(95, 103, 201)),
-      url(/assets/shared/pick-track/pmc-track-background.png) center center /
+      url(/assets/shared/pick-track/pmc-track-background.jpg) center center /
         cover no-repeat;
     background-blend-mode: multiply;
   }

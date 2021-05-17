@@ -87,7 +87,7 @@ textarea {
 select {
   -webkit-appearance: none;
   -webkit-border-radius: 0px;
-  background-image: url('/assets/icons/chevron-down-black.svg');
+  background-image: url('/assets/application/chevron-down-black.svg');
   background-size: 22px;
   background-position: 95.7% 50%;
   background-repeat: no-repeat;

@@ -29,7 +29,7 @@ class TrackPM extends React.Component {
         <Header
           track={generalTrackInfo}
           data={header}
-          logo="/assets/tracks/dps-logo-white.svg"
+          logo="/assets/shared/dps-logo-white.svg"
           className="track-pm__header"
         />
         <TrackImage track="pm" />

@@ -17,13 +17,13 @@ class LinkRow extends React.Component {
           >
             <SVG
               className="link_row__social__media__link"
-              src="/assets/shared/footer/link-row/facebook.svg"
+              src="/assets/shared/footer/facebook.svg"
             ></SVG>
           </a>
           <a href="https://twitter.com/dpschool_io" title="dps twitter link">
             <SVG
               className="link_row__social__media__link"
-              src="/assets/shared/footer/link-row/twitter.svg"
+              src="/assets/shared/footer/twitter.svg"
             ></SVG>
           </a>
           <a
@@ -32,7 +32,7 @@ class LinkRow extends React.Component {
           >
             <SVG
               className="link_row__social__media__link"
-              src="/assets/shared/footer/link-row/instagram.svg"
+              src="/assets/shared/footer/instagram.svg"
             ></SVG>
           </a>
           <a
@@ -41,7 +41,7 @@ class LinkRow extends React.Component {
           >
             <SVG
               className="link_row__social__media__link"
-              src="/assets/shared/footer/link-row/youtube.svg"
+              src="/assets/shared/footer/youtube.svg"
             ></SVG>
           </a>
           <a
@@ -50,7 +50,7 @@ class LinkRow extends React.Component {
           >
             <SVG
               className="link_row__social__media__link"
-              src="/assets/shared/footer/link-row/linkedin.svg"
+              src="/assets/shared/footer/linkedin.svg"
             ></SVG>
           </a>
         </div>
